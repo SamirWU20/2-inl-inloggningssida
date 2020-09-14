@@ -1,0 +1,1 @@
+För skarpa projekt ska man inte använda JS filer för att lagra hemligheter.

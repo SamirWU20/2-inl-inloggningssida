@@ -1,0 +1,3 @@
+repo: https://github.com/SamirWU20/Inloggningssida
+github pages: https://samirwu20.github.io/Inloggningssida/
+reflektioner: ./reflektioner.txt
