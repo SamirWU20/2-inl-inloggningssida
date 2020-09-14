@@ -1,4 +1,4 @@
-♦ Sidan skall ha en meny som innehåller två stycken input-fält,  namn och lösenord, samt en knapp för att logga in.
+[K] ♦ Sidan skall ha en meny som innehåller två stycken input-fält,  namn och lösenord, samt en knapp för att logga in.
 
 [K] ♦ Namn och lösenord skall vara hårdkodade variabler i ditt javascript och vara: namn = "test", lösenord = "1234".
 
